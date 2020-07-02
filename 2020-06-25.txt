@@ -1,0 +1,3686 @@
+
+
+
+npm show ava@* version
+
+Donalds-iMac:node-server don$ npm show ava@* version
+ava@0.0.3 '0.0.3'
+ava@0.0.4 '0.0.4'
+ava@0.1.0 '0.1.0'
+ava@0.2.0 '0.2.0'
+ava@0.3.0 '0.3.0'
+ava@0.4.0 '0.4.0'
+ava@0.4.1 '0.4.1'
+ava@0.4.2 '0.4.2'
+ava@0.5.0 '0.5.0'
+ava@0.6.0 '0.6.0'
+ava@0.6.1 '0.6.1'
+ava@0.7.0 '0.7.0'
+ava@0.8.0 '0.8.0'
+ava@0.9.0 '0.9.0'
+ava@0.9.1 '0.9.1'
+ava@0.9.2 '0.9.2'
+ava@0.10.0 '0.10.0'
+ava@0.11.0 '0.11.0'
+ava@0.12.0 '0.12.0'
+ava@0.13.0 '0.13.0'
+ava@0.14.0 '0.14.0'
+ava@0.15.0 '0.15.0'
+ava@0.15.1 '0.15.1'
+ava@0.15.2 '0.15.2'
+ava@0.16.0 '0.16.0'
+ava@0.17.0 '0.17.0'
+ava@0.18.0 '0.18.0'
+ava@0.18.1 '0.18.1'
+ava@0.18.2 '0.18.2'
+ava@0.19.0 '0.19.0'
+ava@0.19.1 '0.19.1'
+ava@0.20.0 '0.20.0'
+ava@0.21.0 '0.21.0'
+ava@0.22.0 '0.22.0'
+ava@0.23.0 '0.23.0'
+ava@0.24.0 '0.24.0'
+ava@0.25.0 '0.25.0'
+ava@1.0.1 '1.0.1'
+ava@1.1.0 '1.1.0'
+ava@1.2.0 '1.2.0'
+ava@1.2.1 '1.2.1'
+ava@1.3.0 '1.3.0'
+ava@1.3.1 '1.3.1'
+ava@1.4.0 '1.4.0'
+ava@1.4.1 '1.4.1'
+ava@2.0.0 '2.0.0'
+ava@2.1.0 '2.1.0'
+ava@2.2.0 '2.2.0'
+ava@2.3.0 '2.3.0'
+ava@2.4.0 '2.4.0'
+ava@3.0.0 '3.0.0'
+ava@3.1.0 '3.1.0'
+ava@3.2.0 '3.2.0'
+ava@3.3.0 '3.3.0'
+ava@3.4.0 '3.4.0'
+ava@3.5.0 '3.5.0'
+ava@3.5.1 '3.5.1'
+ava@3.5.2 '3.5.2'
+ava@3.6.0 '3.6.0'
+ava@3.7.0 '3.7.0'
+ava@3.7.1 '3.7.1'
+ava@3.8.0 '3.8.0'
+ava@3.8.1 '3.8.1'
+ava@3.8.2 '3.8.2'
+ava@3.9.0 '3.9.0'
+
+npm show readable-stream@* version
+
+readable-stream@0.0.1 '0.0.1'
+readable-stream@0.0.2 '0.0.2'
+readable-stream@0.0.3 '0.0.3'
+readable-stream@0.0.4 '0.0.4'
+readable-stream@0.1.0 '0.1.0'
+readable-stream@0.2.0 '0.2.0'
+readable-stream@0.3.0 '0.3.0'
+readable-stream@0.3.1 '0.3.1'
+readable-stream@1.0.0 '1.0.0'
+readable-stream@1.0.1 '1.0.1'
+readable-stream@1.0.2 '1.0.2'
+readable-stream@1.0.15 '1.0.15'
+readable-stream@1.0.17 '1.0.17'
+readable-stream@1.1.7 '1.1.7'
+readable-stream@1.1.8 '1.1.8'
+readable-stream@1.1.9 '1.1.9'
+readable-stream@1.0.24 '1.0.24'
+readable-stream@1.0.25 '1.0.25'
+readable-stream@1.1.10 '1.1.10'
+readable-stream@1.1.11 '1.1.11'
+readable-stream@1.0.26 '1.0.26'
+readable-stream@1.1.12 '1.1.12'
+readable-stream@1.0.31 '1.0.31'
+readable-stream@1.1.13 '1.1.13'
+readable-stream@1.0.32 '1.0.32'
+readable-stream@1.0.33 '1.0.33'
+readable-stream@2.0.0 '2.0.0'
+readable-stream@2.0.1 '2.0.1'
+readable-stream@2.0.2 '2.0.2'
+readable-stream@2.0.3 '2.0.3'
+readable-stream@2.0.4 '2.0.4'
+readable-stream@2.0.5 '2.0.5'
+readable-stream@2.0.6 '2.0.6'
+readable-stream@1.0.34 '1.0.34'
+readable-stream@1.1.14 '1.1.14'
+readable-stream@2.1.0 '2.1.0'
+readable-stream@2.1.1 '2.1.1'
+readable-stream@2.1.2 '2.1.2'
+readable-stream@2.1.3 '2.1.3'
+readable-stream@2.1.4 '2.1.4'
+readable-stream@2.1.5 '2.1.5'
+readable-stream@2.2.0 '2.2.0'
+readable-stream@2.2.1 '2.2.1'
+readable-stream@2.2.2 '2.2.2'
+readable-stream@2.2.3 '2.2.3'
+readable-stream@2.2.4 '2.2.4'
+readable-stream@2.2.5 '2.2.5'
+readable-stream@2.2.6 '2.2.6'
+readable-stream@2.2.7 '2.2.7'
+readable-stream@2.2.8 '2.2.8'
+readable-stream@2.2.9 '2.2.9'
+readable-stream@2.2.10 '2.2.10'
+readable-stream@2.2.11 '2.2.11'
+readable-stream@2.3.0 '2.3.0'
+readable-stream@2.3.1 '2.3.1'
+readable-stream@2.3.2 '2.3.2'
+readable-stream@2.3.3 '2.3.3'
+readable-stream@2.3.4 '2.3.4'
+readable-stream@2.3.5 '2.3.5'
+readable-stream@2.3.6 '2.3.6'
+readable-stream@3.0.0 '3.0.0'
+readable-stream@3.0.1 '3.0.1'
+readable-stream@3.0.2 '3.0.2'
+readable-stream@3.0.3 '3.0.3'
+readable-stream@3.0.4 '3.0.4'
+readable-stream@3.0.5 '3.0.5'
+readable-stream@3.0.6 '3.0.6'
+readable-stream@3.1.0 '3.1.0'
+readable-stream@3.1.1 '3.1.1'
+readable-stream@3.2.0 '3.2.0'
+readable-stream@3.3.0 '3.3.0'
+readable-stream@3.4.0 '3.4.0'
+readable-stream@2.3.7 '2.3.7'
+readable-stream@3.5.0 '3.5.0'
+readable-stream@3.6.0 '3.6.0'
+
+Donalds-iMac:node-server don$ tsc
+src/index.ts:1:21 - error TS7016: Could not find a declaration file for module 'readable-stream'. '/Users/don/Work/node-server/node_modules/readable-stream/readable.js' implicitly has an 'any' type.
+  Try `npm install @types/readable-stream` if it exists or add a new declaration (.d.ts) file containing `declare module 'readable-stream';`
+
+1 import * as rs from 'readable-stream';
+                      ~~~~~~~~~~~~~~~~~
+
+
+    "@ava/typescript": "^1.1.1",
+
+
+
+Donalds-iMac:node-server don$ tsc
+src/index.ts:1:26 - error TS7016: Could not find a declaration file for module 'express'. '/Users/don/Work/node-server/node_modules/express/index.js' implicitly has an 'any' type.
+  Try `npm install @types/express` if it exists or add a new declaration (.d.ts) file containing `declare module 'express';`
+
+1 import * as express from 'express';
+                           ~~~~~~~~~
+
+
+npm show express@* version
+
+Donalds-iMac:node-server don$ npm show express@* version
+express@0.14.0 '0.14.0'
+express@0.14.1 '0.14.1'
+express@1.0.0 '1.0.0'
+express@1.0.1 '1.0.1'
+express@1.0.2 '1.0.2'
+express@1.0.3 '1.0.3'
+express@1.0.4 '1.0.4'
+express@1.0.5 '1.0.5'
+express@1.0.6 '1.0.6'
+express@1.0.7 '1.0.7'
+express@1.0.8 '1.0.8'
+express@2.0.0 '2.0.0'
+express@2.1.0 '2.1.0'
+express@2.1.1 '2.1.1'
+express@2.2.0 '2.2.0'
+express@2.2.1 '2.2.1'
+express@2.2.2 '2.2.2'
+express@2.3.0 '2.3.0'
+express@2.3.1 '2.3.1'
+express@2.3.2 '2.3.2'
+express@2.3.3 '2.3.3'
+express@2.3.4 '2.3.4'
+express@2.3.5 '2.3.5'
+express@2.3.6 '2.3.6'
+express@2.3.7 '2.3.7'
+express@2.3.8 '2.3.8'
+express@2.3.9 '2.3.9'
+express@2.3.10 '2.3.10'
+express@2.3.11 '2.3.11'
+express@2.3.12 '2.3.12'
+express@2.4.0 '2.4.0'
+express@2.4.1 '2.4.1'
+express@2.4.2 '2.4.2'
+express@2.4.3 '2.4.3'
+express@2.4.4 '2.4.4'
+express@2.4.5 '2.4.5'
+express@2.4.6 '2.4.6'
+express@2.4.7 '2.4.7'
+express@2.5.0 '2.5.0'
+express@2.5.1 '2.5.1'
+express@2.5.2 '2.5.2'
+express@2.5.3 '2.5.3'
+express@2.5.4 '2.5.4'
+express@2.5.5 '2.5.5'
+express@2.5.6 '2.5.6'
+express@2.5.7 '2.5.7'
+express@2.5.8 '2.5.8'
+express@2.5.9 '2.5.9'
+express@2.5.10 '2.5.10'
+express@2.5.11 '2.5.11'
+express@3.0.0 '3.0.0'
+express@3.0.1 '3.0.1'
+express@3.0.2 '3.0.2'
+express@3.0.3 '3.0.3'
+express@3.0.4 '3.0.4'
+express@3.0.5 '3.0.5'
+express@3.0.6 '3.0.6'
+express@3.1.0 '3.1.0'
+express@3.1.1 '3.1.1'
+express@3.1.2 '3.1.2'
+express@3.2.0 '3.2.0'
+express@3.2.1 '3.2.1'
+express@3.2.2 '3.2.2'
+express@3.2.3 '3.2.3'
+express@3.2.4 '3.2.4'
+express@3.2.5 '3.2.5'
+express@3.2.6 '3.2.6'
+express@3.3.0 '3.3.0'
+express@3.3.1 '3.3.1'
+express@3.3.2 '3.3.2'
+express@3.3.3 '3.3.3'
+express@3.3.4 '3.3.4'
+express@3.3.5 '3.3.5'
+express@3.3.6 '3.3.6'
+express@3.3.7 '3.3.7'
+express@3.3.8 '3.3.8'
+express@3.4.0 '3.4.0'
+express@3.4.1 '3.4.1'
+express@3.4.2 '3.4.2'
+express@3.4.3 '3.4.3'
+express@3.4.4 '3.4.4'
+express@3.4.5 '3.4.5'
+express@3.4.6 '3.4.6'
+express@3.4.7 '3.4.7'
+express@3.4.8 '3.4.8'
+express@3.5.0 '3.5.0'
+express@3.5.1 '3.5.1'
+express@4.0.0 '4.0.0'
+express@3.5.2 '3.5.2'
+express@4.1.0 '4.1.0'
+express@4.1.1 '4.1.1'
+express@3.5.3 '3.5.3'
+express@4.1.2 '4.1.2'
+express@3.6.0 '3.6.0'
+express@4.2.0 '4.2.0'
+express@3.7.0 '3.7.0'
+express@3.8.0 '3.8.0'
+express@4.3.0 '4.3.0'
+express@4.3.1 '4.3.1'
+express@3.8.1 '3.8.1'
+express@4.3.2 '4.3.2'
+express@3.9.0 '3.9.0'
+express@4.4.0 '4.4.0'
+express@4.4.1 '4.4.1'
+express@3.10.0 '3.10.0'
+express@3.10.1 '3.10.1'
+express@3.10.2 '3.10.2'
+express@3.10.3 '3.10.3'
+express@3.10.4 '3.10.4'
+express@4.4.2 '4.4.2'
+express@3.10.5 '3.10.5'
+express@4.4.3 '4.4.3'
+express@3.11.0 '3.11.0'
+express@4.4.4 '4.4.4'
+express@3.12.0 '3.12.0'
+express@3.12.1 '3.12.1'
+express@4.4.5 '4.4.5'
+express@3.13.0 '3.13.0'
+express@4.5.0 '4.5.0'
+express@4.5.1 '4.5.1'
+express@3.14.0 '3.14.0'
+express@4.6.0 '4.6.0'
+express@4.6.1 '4.6.1'
+express@3.15.0 '3.15.0'
+express@4.7.0 '4.7.0'
+express@3.15.1 '3.15.1'
+express@4.7.1 '4.7.1'
+express@3.15.2 '3.15.2'
+express@4.7.2 '4.7.2'
+express@4.7.3 '4.7.3'
+express@3.15.3 '3.15.3'
+express@4.7.4 '4.7.4'
+express@3.16.0 '3.16.0'
+express@4.8.0 '4.8.0'
+express@3.16.1 '3.16.1'
+express@4.8.1 '4.8.1'
+express@3.16.2 '3.16.2'
+express@4.8.2 '4.8.2'
+express@3.16.3 '3.16.3'
+express@3.16.4 '3.16.4'
+express@4.8.3 '4.8.3'
+express@3.16.5 '3.16.5'
+express@3.16.6 '3.16.6'
+express@4.8.4 '4.8.4'
+express@3.16.7 '3.16.7'
+express@4.8.5 '4.8.5'
+express@3.16.8 '3.16.8'
+express@4.8.6 '4.8.6'
+express@3.16.9 '3.16.9'
+express@4.8.7 '4.8.7'
+express@3.16.10 '3.16.10'
+express@4.8.8 '4.8.8'
+express@3.17.0 '3.17.0'
+express@3.17.1 '3.17.1'
+express@4.9.0 '4.9.0'
+express@3.17.2 '3.17.2'
+express@4.9.1 '4.9.1'
+express@4.9.2 '4.9.2'
+express@3.17.3 '3.17.3'
+express@4.9.3 '4.9.3'
+express@3.17.4 '3.17.4'
+express@4.9.4 '4.9.4'
+express@3.17.5 '3.17.5'
+express@4.9.5 '4.9.5'
+express@3.17.6 '3.17.6'
+express@3.17.7 '3.17.7'
+express@4.9.6 '4.9.6'
+express@4.9.7 '4.9.7'
+express@3.17.8 '3.17.8'
+express@4.9.8 '4.9.8'
+express@3.18.0 '3.18.0'
+express@3.18.1 '3.18.1'
+express@4.10.0 '4.10.0'
+express@3.18.2 '3.18.2'
+express@4.10.1 '4.10.1'
+express@3.18.3 '3.18.3'
+express@4.10.2 '4.10.2'
+express@3.18.4 '3.18.4'
+express@4.10.3 '4.10.3'
+express@4.10.4 '4.10.4'
+express@4.10.5 '4.10.5'
+express@3.18.5 '3.18.5'
+express@3.18.6 '3.18.6'
+express@4.10.6 '4.10.6'
+express@4.10.7 '4.10.7'
+express@3.19.0 '3.19.0'
+express@4.10.8 '4.10.8'
+express@4.11.0 '4.11.0'
+express@3.19.1 '3.19.1'
+express@4.11.1 '4.11.1'
+express@3.19.2 '3.19.2'
+express@4.11.2 '4.11.2'
+express@3.20.0 '3.20.0'
+express@4.12.0 '4.12.0'
+express@3.20.1 '3.20.1'
+express@4.12.1 '4.12.1'
+express@4.12.2 '4.12.2'
+express@3.20.2 '3.20.2'
+express@4.12.3 '4.12.3'
+express@3.20.3 '3.20.3'
+express@4.12.4 '4.12.4'
+express@3.21.0 '3.21.0'
+express@4.13.0 '4.13.0'
+express@3.21.1 '3.21.1'
+express@4.13.1 '4.13.1'
+express@3.21.2 '3.21.2'
+express@4.13.2 '4.13.2'
+express@4.13.3 '4.13.3'
+express@4.13.4 '4.13.4'
+express@4.14.0 '4.14.0'
+express@4.14.1 '4.14.1'
+express@4.15.0 '4.15.0'
+express@4.15.1 '4.15.1'
+express@4.15.2 '4.15.2'
+express@4.15.3 '4.15.3'
+express@4.15.4 '4.15.4'
+express@4.15.5 '4.15.5'
+express@4.16.0 '4.16.0'
+express@4.16.1 '4.16.1'
+express@4.16.2 '4.16.2'
+express@4.16.3 '4.16.3'
+express@4.16.4 '4.16.4'
+express@4.17.0 '4.17.0'
+express@4.17.1 '4.17.1'
+
+
+npm show @types/express@* version
+
+Donalds-iMac:node-server don$ npm show @types/express@* version
+@types/express@4.0.29 '4.0.29'
+@types/express@4.0.30 '4.0.30'
+@types/express@4.0.31 '4.0.31'
+@types/express@4.0.32 '4.0.32'
+@types/express@4.0.33 '4.0.33'
+@types/express@4.0.34 '4.0.34'
+@types/express@4.0.35 '4.0.35'
+@types/express@4.0.36 '4.0.36'
+@types/express@4.0.37 '4.0.37'
+@types/express@4.0.38 '4.0.38'
+@types/express@4.0.39 '4.0.39'
+@types/express@4.11.0 '4.11.0'
+@types/express@4.11.1 '4.11.1'
+@types/express@4.16.0 '4.16.0'
+@types/express@4.16.1 '4.16.1'
+@types/express@4.17.0 '4.17.0'
+@types/express@4.17.1 '4.17.1'
+@types/express@4.17.2 '4.17.2'
+@types/express@4.17.3 '4.17.3'
+@types/express@4.17.4 '4.17.4'
+@types/express@4.17.5 '4.17.5'
+@types/express@4.17.6 '4.17.6'
+
+
+https://expressjs.com/
+https://expressjs.com/en/starter/generator.html
+
+Donalds-iMac:work don$ npx express-generator node-express-generated
+npx: installed 10 in 1.549s
+
+  warning: the default view engine will not be jade in future releases
+  warning: use `--view=jade' or `--help' for additional options
+
+
+   create : node-express-generated/
+   create : node-express-generated/public/
+   create : node-express-generated/public/javascripts/
+   create : node-express-generated/public/images/
+   create : node-express-generated/public/stylesheets/
+   create : node-express-generated/public/stylesheets/style.css
+   create : node-express-generated/routes/
+   create : node-express-generated/routes/index.js
+   create : node-express-generated/routes/users.js
+   create : node-express-generated/views/
+   create : node-express-generated/views/error.jade
+   create : node-express-generated/views/index.jade
+   create : node-express-generated/views/layout.jade
+   create : node-express-generated/app.js
+   create : node-express-generated/package.json
+   create : node-express-generated/bin/
+   create : node-express-generated/bin/www
+
+   change directory:
+     $ cd node-express-generated
+
+   install dependencies:
+     $ npm install
+
+   run the app:
+     $ DEBUG=node-express-generated:* npm start
+
+
+cd node-express-generated
+
+
+Donalds-iMac:node-express-generated don$ npm install
+npm WARN deprecated jade@1.11.0: Jade has been renamed to pug, please install the latest version of pug instead of jade
+npm WARN deprecated constantinople@3.0.2: Please update to at least constantinople 3.1.1
+npm WARN deprecated transformers@2.1.0: Deprecated, use jstransformer
+npm notice created a lockfile as package-lock.json. You should commit this file.
+added 100 packages from 139 contributors and audited 101 packages in 3.28s
+found 4 vulnerabilities (3 low, 1 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+
+AGAIN:
+
+Donalds-iMac:work don$ npx express-generator --view=pug node-express-generated
+npx: installed 10 in 1.977s
+
+   create : node-express-generated/
+   create : node-express-generated/public/
+   create : node-express-generated/public/javascripts/
+   create : node-express-generated/public/images/
+   create : node-express-generated/public/stylesheets/
+   create : node-express-generated/public/stylesheets/style.css
+   create : node-express-generated/routes/
+   create : node-express-generated/routes/index.js
+   create : node-express-generated/routes/users.js
+   create : node-express-generated/views/
+   create : node-express-generated/views/error.pug
+   create : node-express-generated/views/index.pug
+   create : node-express-generated/views/layout.pug
+   create : node-express-generated/app.js
+   create : node-express-generated/package.json
+   create : node-express-generated/bin/
+   create : node-express-generated/bin/www
+
+   change directory:
+     $ cd node-express-generated
+
+   install dependencies:
+     $ npm install
+
+   run the app:
+     $ DEBUG=node-express-generated:* npm start
+
+
+Donalds-iMac:node-express-generated don$ npm install
+npm WARN deprecated core-js@2.6.11: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+
+> core-js@2.6.11 postinstall /Users/don/Work/node-express-generated/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon: 
+> https://opencollective.com/core-js 
+> https://www.patreon.com/zloirock 
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+npm notice created a lockfile as package-lock.json. You should commit this file.
+added 118 packages from 171 contributors and audited 119 packages in 4.738s
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Donalds-iMac:node-express-generated don$ node -v
+v12.18.1
+
+
+Donalds-iMac:node-express-generated don$ npm audit
+                                                                                
+                       === npm audit security report ===                        
+                                                                                
+# Run  npm install pug@3.0.0  to resolve 1 vulnerability
+SEMVER WARNING: Recommended action is a potentially breaking change
+┌───────────────┬──────────────────────────────────────────────────────────────┐
+│ Low           │ Regular Expression Denial of Service                         │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Package       │ clean-css                                                    │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Dependency of │ pug                                                          │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ Path          │ pug > pug-filters > clean-css                                │
+├───────────────┼──────────────────────────────────────────────────────────────┤
+│ More info     │ https://npmjs.com/advisories/785                             │
+└───────────────┴──────────────────────────────────────────────────────────────┘
+
+
+found 1 low severity vulnerability in 119 scanned packages
+  1 vulnerability requires semver-major dependency updates.
+
+
+Donalds-iMac:node-express-generated don$ npm install pug@3.0.0
++ pug@3.0.0
+added 5 packages from 3 contributors, removed 33 packages, updated 19 packages and audited 91 packages in 3.471s
+found 0 vulnerabilities
+
+
+DEBUG=node-express-generated:* npm start
+
+
+
+https://github.com/expressjs/cookie-parser
+
+npm install cookie-parser
+npm install @types/cookie-parser
+
+curl http://127.0.0.1:8000 --cookie "Cho=Kim;Greet=Hello"
+
+
+
+
+
+
+SAMPLE DETAILED OUTPUT
+
+Donalds-iMac:node-server don$ runlocal
+Example app listening at http://localhost:8000
+
+***_readableState
+_readableState: ReadableState {
+  objectMode: false,
+  highWaterMark: 16384,
+  buffer: BufferList { head: null, tail: null, length: 0 },
+  length: 0,
+  pipes: null,
+  pipesCount: 0,
+  flowing: null,
+  ended: false,
+  endEmitted: false,
+  reading: false,
+  sync: true,
+  needReadable: false,
+  emittedReadable: false,
+  readableListening: false,
+  resumeScheduled: false,
+  emitClose: true,
+  autoDestroy: false,
+  destroyed: false,
+  defaultEncoding: 'utf8',
+  awaitDrainWriters: null,
+  multiAwaitDrain: false,
+  readingMore: true,
+  decoder: null,
+  encoding: null,
+  [Symbol(kPaused)]: null
+}
+
+***readable
+readable: true
+
+***_events
+_events: [Object: null prototype] {
+  end: [Function: resetHeadersTimeoutOnReqEnd] {
+    [length]: 0,
+    [name]: 'resetHeadersTimeoutOnReqEnd',
+    [prototype]: resetHeadersTimeoutOnReqEnd { [constructor]: [Circular] }
+  }
+}
+
+***_eventsCount
+_eventsCount: 1
+
+***_maxListeners
+_maxListeners: undefined
+
+***socket
+socket: Socket {
+  connecting: false,
+  _hadError: false,
+  _parent: null,
+  _host: null,
+  _readableState: ReadableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    buffer: BufferList { head: null, tail: null, length: 0 },
+    length: 0,
+    pipes: null,
+    pipesCount: 0,
+    flowing: true,
+    ended: false,
+    endEmitted: false,
+    reading: true,
+    sync: false,
+    needReadable: true,
+    emittedReadable: false,
+    readableListening: false,
+    resumeScheduled: false,
+    emitClose: false,
+    autoDestroy: false,
+    destroyed: false,
+    defaultEncoding: 'utf8',
+    awaitDrainWriters: null,
+    multiAwaitDrain: false,
+    readingMore: false,
+    decoder: null,
+    encoding: null,
+    [Symbol(kPaused)]: false
+  },
+  readable: true,
+  _events: [Object: null prototype] {
+    end: [
+      [Function: onReadableStreamEnd] {
+        [length]: 0,
+        [name]: 'onReadableStreamEnd',
+        [prototype]: [onReadableStreamEnd]
+      },
+      [Function: bound socketOnEnd] {
+        [length]: 0,
+        [name]: 'bound socketOnEnd'
+      },
+      [length]: 2
+    ],
+    timeout: [Function: socketOnTimeout] {
+      [length]: 0,
+      [name]: 'socketOnTimeout',
+      [prototype]: socketOnTimeout { [constructor]: [Circular] }
+    },
+    data: [Function: bound socketOnData] {
+      [length]: 1,
+      [name]: 'bound socketOnData'
+    },
+    error: [Function: socketOnError] {
+      [length]: 1,
+      [name]: 'socketOnError',
+      [prototype]: socketOnError { [constructor]: [Circular] }
+    },
+    close: [
+      [Function: bound socketOnClose] {
+        [length]: 0,
+        [name]: 'bound socketOnClose'
+      },
+      [Function: onServerResponseClose] {
+        [length]: 0,
+        [name]: 'onServerResponseClose',
+        [prototype]: [onServerResponseClose]
+      },
+      [length]: 2
+    ],
+    drain: [Function: bound socketOnDrain] {
+      [length]: 0,
+      [name]: 'bound socketOnDrain'
+    },
+    resume: [Function: onSocketResume] {
+      [length]: 0,
+      [name]: 'onSocketResume',
+      [prototype]: onSocketResume { [constructor]: [Circular] }
+    },
+    pause: [Function: onSocketPause] {
+      [length]: 0,
+      [name]: 'onSocketPause',
+      [prototype]: onSocketPause { [constructor]: [Circular] }
+    }
+  },
+  _eventsCount: 8,
+  _maxListeners: undefined,
+  _writableState: WritableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    finalCalled: false,
+    needDrain: false,
+    ending: false,
+    ended: false,
+    finished: false,
+    destroyed: false,
+    decodeStrings: false,
+    defaultEncoding: 'utf8',
+    length: 0,
+    writing: false,
+    corked: 0,
+    sync: true,
+    bufferProcessing: false,
+    onwrite: [Function: bound onwrite] { [length]: 1, [name]: 'bound onwrite' },
+    writecb: null,
+    writelen: 0,
+    afterWriteTickInfo: null,
+    bufferedRequest: null,
+    lastBufferedRequest: null,
+    pendingcb: 0,
+    prefinished: false,
+    errorEmitted: false,
+    emitClose: false,
+    autoDestroy: false,
+    bufferedRequestCount: 0,
+    corkedRequestsFree: {
+      next: null,
+      entry: null,
+      finish: [Function: bound onCorkedFinish] {
+        [length]: 1,
+        [name]: 'bound onCorkedFinish'
+      }
+    },
+    [buffer]: [Getter]
+  },
+  writable: true,
+  allowHalfOpen: true,
+  _sockname: null,
+  _pendingData: null,
+  _pendingEncoding: '',
+  server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  _server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  timeout: 120000,
+  parser: HTTPParser {
+    '0': [Function: parserOnHeaders] {
+      [length]: 2,
+      [name]: 'parserOnHeaders',
+      [prototype]: parserOnHeaders { [constructor]: [Circular] }
+    },
+    '1': [Function: parserOnHeadersComplete] {
+      [length]: 9,
+      [name]: 'parserOnHeadersComplete',
+      [prototype]: parserOnHeadersComplete { [constructor]: [Circular] }
+    },
+    '2': [Function: parserOnBody] {
+      [length]: 3,
+      [name]: 'parserOnBody',
+      [prototype]: parserOnBody { [constructor]: [Circular] }
+    },
+    '3': [Function: parserOnMessageComplete] {
+      [length]: 0,
+      [name]: 'parserOnMessageComplete',
+      [prototype]: parserOnMessageComplete { [constructor]: [Circular] }
+    },
+    '4': [Function: bound onParserExecute] {
+      [length]: 1,
+      [name]: 'bound onParserExecute'
+    },
+    _headers: [ [length]: 0 ],
+    _url: '',
+    socket: [Circular],
+    incoming: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: ServerResponse {
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        outputData: [Array],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _onPendingData: [Function],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object: null prototype] {},
+        [Symbol(kCapture)]: false,
+        [Symbol(kNeedDrain)]: false,
+        [Symbol(corked)]: 0,
+        [Symbol(kOutHeaders)]: [Object: null prototype],
+        statusCode: 200,
+        statusMessage: undefined
+      },
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    outgoing: null,
+    maxHeaderPairs: 2000,
+    _consumed: true,
+    onIncoming: [Function: bound parserOnIncoming] {
+      [length]: 2,
+      [name]: 'bound parserOnIncoming'
+    },
+    parsingHeadersStart: 0
+  },
+  on: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  addListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  prependListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  _paused: false,
+  _httpMessage: ServerResponse {
+    _events: [Object: null prototype] {
+      finish: [Function: bound resOnFinish] {
+        [length]: 0,
+        [name]: 'bound resOnFinish'
+      }
+    },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [ [length]: 0 ],
+    outputSize: 0,
+    writable: true,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: [Circular],
+    connection: [Circular],
+    _header: null,
+    _onPendingData: [Function: bound updateOutgoingData] {
+      [length]: 1,
+      [name]: 'bound updateOutgoingData'
+    },
+    _sent100: false,
+    _expect_continue: false,
+    req: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: [Circular],
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    locals: [Object: null prototype] {},
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [ 'X-Powered-By', 'Express', [length]: 2 ]
+    },
+    statusCode: 200,
+    statusMessage: undefined
+  },
+  [Symbol(asyncId)]: 8,
+  [Symbol(kHandle)]: TCP {
+    reading: true,
+    onconnection: null,
+    _consumed: true,
+    [Symbol(owner)]: [Circular],
+    [owner]: [Getter/Setter],
+    writeQueueSize: [Getter],
+    [fd]: [Getter],
+    [_externalStream]: [Getter],
+    [bytesRead]: [Getter],
+    [bytesWritten]: [Getter],
+    isStreamBase: true
+  },
+  [Symbol(kSetNoDelay)]: false,
+  [Symbol(lastWriteQueueSize)]: 0,
+  [Symbol(timeout)]: Timeout {
+    _idleTimeout: 120000,
+    _idlePrev: [TimersList],
+    _idleNext: [TimersList],
+    _idleStart: 6165,
+    _onTimeout: [Function],
+    _timerArgs: undefined,
+    _repeat: null,
+    _destroyed: false,
+    [Symbol(refed)]: false,
+    [Symbol(asyncId)]: 9,
+    [Symbol(triggerId)]: 8
+  },
+  [Symbol(kBuffer)]: null,
+  [Symbol(kBufferCb)]: null,
+  [Symbol(kBufferGen)]: null,
+  [Symbol(kCapture)]: false,
+  [Symbol(kBytesRead)]: 0,
+  [Symbol(kBytesWritten)]: 0,
+  [_connecting]: [Getter],
+  [pending]: [Getter],
+  [readyState]: [Getter],
+  [bufferSize]: [Getter],
+  bytesRead: [Getter],
+  remoteAddress: [Getter],
+  remoteFamily: [Getter],
+  remotePort: [Getter],
+  localAddress: [Getter],
+  localPort: [Getter],
+  _bytesDispatched: [Getter],
+  bytesWritten: [Getter],
+  [_handle]: [Getter/Setter],
+  [Symbol(kUpdateTimer)]: [Getter],
+  [destroyed]: [Getter/Setter],
+  [writableHighWaterMark]: [Getter],
+  [writableBuffer]: [Getter],
+  [writableLength]: [Getter],
+  [writableFinished]: [Getter],
+  [writableCorked]: [Getter],
+  [writableEnded]: [Getter],
+  [readableHighWaterMark]: [Getter],
+  [readableBuffer]: [Getter],
+  [readableFlowing]: [Getter/Setter],
+  [readableLength]: [Getter],
+  [readableObjectMode]: [Getter],
+  [readableEncoding]: [Getter],
+  [readableEnded]: [Getter],
+  [paused]: [Getter/Setter]
+}
+
+***connection
+connection: Socket {
+  connecting: false,
+  _hadError: false,
+  _parent: null,
+  _host: null,
+  _readableState: ReadableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    buffer: BufferList { head: null, tail: null, length: 0 },
+    length: 0,
+    pipes: null,
+    pipesCount: 0,
+    flowing: true,
+    ended: false,
+    endEmitted: false,
+    reading: true,
+    sync: false,
+    needReadable: true,
+    emittedReadable: false,
+    readableListening: false,
+    resumeScheduled: false,
+    emitClose: false,
+    autoDestroy: false,
+    destroyed: false,
+    defaultEncoding: 'utf8',
+    awaitDrainWriters: null,
+    multiAwaitDrain: false,
+    readingMore: false,
+    decoder: null,
+    encoding: null,
+    [Symbol(kPaused)]: false
+  },
+  readable: true,
+  _events: [Object: null prototype] {
+    end: [
+      [Function: onReadableStreamEnd] {
+        [length]: 0,
+        [name]: 'onReadableStreamEnd',
+        [prototype]: [onReadableStreamEnd]
+      },
+      [Function: bound socketOnEnd] {
+        [length]: 0,
+        [name]: 'bound socketOnEnd'
+      },
+      [length]: 2
+    ],
+    timeout: [Function: socketOnTimeout] {
+      [length]: 0,
+      [name]: 'socketOnTimeout',
+      [prototype]: socketOnTimeout { [constructor]: [Circular] }
+    },
+    data: [Function: bound socketOnData] {
+      [length]: 1,
+      [name]: 'bound socketOnData'
+    },
+    error: [Function: socketOnError] {
+      [length]: 1,
+      [name]: 'socketOnError',
+      [prototype]: socketOnError { [constructor]: [Circular] }
+    },
+    close: [
+      [Function: bound socketOnClose] {
+        [length]: 0,
+        [name]: 'bound socketOnClose'
+      },
+      [Function: onServerResponseClose] {
+        [length]: 0,
+        [name]: 'onServerResponseClose',
+        [prototype]: [onServerResponseClose]
+      },
+      [length]: 2
+    ],
+    drain: [Function: bound socketOnDrain] {
+      [length]: 0,
+      [name]: 'bound socketOnDrain'
+    },
+    resume: [Function: onSocketResume] {
+      [length]: 0,
+      [name]: 'onSocketResume',
+      [prototype]: onSocketResume { [constructor]: [Circular] }
+    },
+    pause: [Function: onSocketPause] {
+      [length]: 0,
+      [name]: 'onSocketPause',
+      [prototype]: onSocketPause { [constructor]: [Circular] }
+    }
+  },
+  _eventsCount: 8,
+  _maxListeners: undefined,
+  _writableState: WritableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    finalCalled: false,
+    needDrain: false,
+    ending: false,
+    ended: false,
+    finished: false,
+    destroyed: false,
+    decodeStrings: false,
+    defaultEncoding: 'utf8',
+    length: 0,
+    writing: false,
+    corked: 0,
+    sync: true,
+    bufferProcessing: false,
+    onwrite: [Function: bound onwrite] { [length]: 1, [name]: 'bound onwrite' },
+    writecb: null,
+    writelen: 0,
+    afterWriteTickInfo: null,
+    bufferedRequest: null,
+    lastBufferedRequest: null,
+    pendingcb: 0,
+    prefinished: false,
+    errorEmitted: false,
+    emitClose: false,
+    autoDestroy: false,
+    bufferedRequestCount: 0,
+    corkedRequestsFree: {
+      next: null,
+      entry: null,
+      finish: [Function: bound onCorkedFinish] {
+        [length]: 1,
+        [name]: 'bound onCorkedFinish'
+      }
+    },
+    [buffer]: [Getter]
+  },
+  writable: true,
+  allowHalfOpen: true,
+  _sockname: null,
+  _pendingData: null,
+  _pendingEncoding: '',
+  server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  _server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  timeout: 120000,
+  parser: HTTPParser {
+    '0': [Function: parserOnHeaders] {
+      [length]: 2,
+      [name]: 'parserOnHeaders',
+      [prototype]: parserOnHeaders { [constructor]: [Circular] }
+    },
+    '1': [Function: parserOnHeadersComplete] {
+      [length]: 9,
+      [name]: 'parserOnHeadersComplete',
+      [prototype]: parserOnHeadersComplete { [constructor]: [Circular] }
+    },
+    '2': [Function: parserOnBody] {
+      [length]: 3,
+      [name]: 'parserOnBody',
+      [prototype]: parserOnBody { [constructor]: [Circular] }
+    },
+    '3': [Function: parserOnMessageComplete] {
+      [length]: 0,
+      [name]: 'parserOnMessageComplete',
+      [prototype]: parserOnMessageComplete { [constructor]: [Circular] }
+    },
+    '4': [Function: bound onParserExecute] {
+      [length]: 1,
+      [name]: 'bound onParserExecute'
+    },
+    _headers: [ [length]: 0 ],
+    _url: '',
+    socket: [Circular],
+    incoming: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: ServerResponse {
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        outputData: [Array],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _onPendingData: [Function],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object: null prototype] {},
+        [Symbol(kCapture)]: false,
+        [Symbol(kNeedDrain)]: false,
+        [Symbol(corked)]: 0,
+        [Symbol(kOutHeaders)]: [Object: null prototype],
+        statusCode: 200,
+        statusMessage: undefined
+      },
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    outgoing: null,
+    maxHeaderPairs: 2000,
+    _consumed: true,
+    onIncoming: [Function: bound parserOnIncoming] {
+      [length]: 2,
+      [name]: 'bound parserOnIncoming'
+    },
+    parsingHeadersStart: 0
+  },
+  on: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  addListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  prependListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  _paused: false,
+  _httpMessage: ServerResponse {
+    _events: [Object: null prototype] {
+      finish: [Function: bound resOnFinish] {
+        [length]: 0,
+        [name]: 'bound resOnFinish'
+      }
+    },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [ [length]: 0 ],
+    outputSize: 0,
+    writable: true,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: [Circular],
+    connection: [Circular],
+    _header: null,
+    _onPendingData: [Function: bound updateOutgoingData] {
+      [length]: 1,
+      [name]: 'bound updateOutgoingData'
+    },
+    _sent100: false,
+    _expect_continue: false,
+    req: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: [Circular],
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    locals: [Object: null prototype] {},
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [ 'X-Powered-By', 'Express', [length]: 2 ]
+    },
+    statusCode: 200,
+    statusMessage: undefined
+  },
+  [Symbol(asyncId)]: 8,
+  [Symbol(kHandle)]: TCP {
+    reading: true,
+    onconnection: null,
+    _consumed: true,
+    [Symbol(owner)]: [Circular],
+    [owner]: [Getter/Setter],
+    writeQueueSize: [Getter],
+    [fd]: [Getter],
+    [_externalStream]: [Getter],
+    [bytesRead]: [Getter],
+    [bytesWritten]: [Getter],
+    isStreamBase: true
+  },
+  [Symbol(kSetNoDelay)]: false,
+  [Symbol(lastWriteQueueSize)]: 0,
+  [Symbol(timeout)]: Timeout {
+    _idleTimeout: 120000,
+    _idlePrev: [TimersList],
+    _idleNext: [TimersList],
+    _idleStart: 6165,
+    _onTimeout: [Function],
+    _timerArgs: undefined,
+    _repeat: null,
+    _destroyed: false,
+    [Symbol(refed)]: false,
+    [Symbol(asyncId)]: 9,
+    [Symbol(triggerId)]: 8
+  },
+  [Symbol(kBuffer)]: null,
+  [Symbol(kBufferCb)]: null,
+  [Symbol(kBufferGen)]: null,
+  [Symbol(kCapture)]: false,
+  [Symbol(kBytesRead)]: 0,
+  [Symbol(kBytesWritten)]: 0,
+  [_connecting]: [Getter],
+  [pending]: [Getter],
+  [readyState]: [Getter],
+  [bufferSize]: [Getter],
+  bytesRead: [Getter],
+  remoteAddress: [Getter],
+  remoteFamily: [Getter],
+  remotePort: [Getter],
+  localAddress: [Getter],
+  localPort: [Getter],
+  _bytesDispatched: [Getter],
+  bytesWritten: [Getter],
+  [_handle]: [Getter/Setter],
+  [Symbol(kUpdateTimer)]: [Getter],
+  [destroyed]: [Getter/Setter],
+  [writableHighWaterMark]: [Getter],
+  [writableBuffer]: [Getter],
+  [writableLength]: [Getter],
+  [writableFinished]: [Getter],
+  [writableCorked]: [Getter],
+  [writableEnded]: [Getter],
+  [readableHighWaterMark]: [Getter],
+  [readableBuffer]: [Getter],
+  [readableFlowing]: [Getter/Setter],
+  [readableLength]: [Getter],
+  [readableObjectMode]: [Getter],
+  [readableEncoding]: [Getter],
+  [readableEnded]: [Getter],
+  [paused]: [Getter/Setter]
+}
+
+***httpVersionMajor
+httpVersionMajor: 1
+
+***httpVersionMinor
+httpVersionMinor: 1
+
+***httpVersion
+httpVersion: '1.1'
+
+***complete
+complete: false
+
+***headers
+headers: {
+  host: 'localhost:8000',
+  'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language': 'en-US,en;q=0.5',
+  'accept-encoding': 'gzip, deflate',
+  connection: 'keep-alive',
+  'upgrade-insecure-requests': '1',
+  'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+  'cache-control': 'max-age=0'
+}
+
+***rawHeaders
+rawHeaders: [
+  'Host',
+  'localhost:8000',
+  'User-Agent',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+  'Accept',
+  'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'Accept-Language',
+  'en-US,en;q=0.5',
+  'Accept-Encoding',
+  'gzip, deflate',
+  'Connection',
+  'keep-alive',
+  'Upgrade-Insecure-Requests',
+  '1',
+  'If-None-Match',
+  'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+  'Cache-Control',
+  'max-age=0',
+  [length]: 18
+]
+
+***trailers
+trailers: {}
+
+***rawTrailers
+rawTrailers: [ [length]: 0 ]
+
+***aborted
+aborted: false
+
+***upgrade
+upgrade: false
+
+***url
+url: '/'
+
+***method
+method: 'GET'
+
+***statusCode
+statusCode: null
+
+***statusMessage
+statusMessage: null
+
+***client
+client: Socket {
+  connecting: false,
+  _hadError: false,
+  _parent: null,
+  _host: null,
+  _readableState: ReadableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    buffer: BufferList { head: null, tail: null, length: 0 },
+    length: 0,
+    pipes: null,
+    pipesCount: 0,
+    flowing: true,
+    ended: false,
+    endEmitted: false,
+    reading: true,
+    sync: false,
+    needReadable: true,
+    emittedReadable: false,
+    readableListening: false,
+    resumeScheduled: false,
+    emitClose: false,
+    autoDestroy: false,
+    destroyed: false,
+    defaultEncoding: 'utf8',
+    awaitDrainWriters: null,
+    multiAwaitDrain: false,
+    readingMore: false,
+    decoder: null,
+    encoding: null,
+    [Symbol(kPaused)]: false
+  },
+  readable: true,
+  _events: [Object: null prototype] {
+    end: [
+      [Function: onReadableStreamEnd] {
+        [length]: 0,
+        [name]: 'onReadableStreamEnd',
+        [prototype]: [onReadableStreamEnd]
+      },
+      [Function: bound socketOnEnd] {
+        [length]: 0,
+        [name]: 'bound socketOnEnd'
+      },
+      [length]: 2
+    ],
+    timeout: [Function: socketOnTimeout] {
+      [length]: 0,
+      [name]: 'socketOnTimeout',
+      [prototype]: socketOnTimeout { [constructor]: [Circular] }
+    },
+    data: [Function: bound socketOnData] {
+      [length]: 1,
+      [name]: 'bound socketOnData'
+    },
+    error: [Function: socketOnError] {
+      [length]: 1,
+      [name]: 'socketOnError',
+      [prototype]: socketOnError { [constructor]: [Circular] }
+    },
+    close: [
+      [Function: bound socketOnClose] {
+        [length]: 0,
+        [name]: 'bound socketOnClose'
+      },
+      [Function: onServerResponseClose] {
+        [length]: 0,
+        [name]: 'onServerResponseClose',
+        [prototype]: [onServerResponseClose]
+      },
+      [length]: 2
+    ],
+    drain: [Function: bound socketOnDrain] {
+      [length]: 0,
+      [name]: 'bound socketOnDrain'
+    },
+    resume: [Function: onSocketResume] {
+      [length]: 0,
+      [name]: 'onSocketResume',
+      [prototype]: onSocketResume { [constructor]: [Circular] }
+    },
+    pause: [Function: onSocketPause] {
+      [length]: 0,
+      [name]: 'onSocketPause',
+      [prototype]: onSocketPause { [constructor]: [Circular] }
+    }
+  },
+  _eventsCount: 8,
+  _maxListeners: undefined,
+  _writableState: WritableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    finalCalled: false,
+    needDrain: false,
+    ending: false,
+    ended: false,
+    finished: false,
+    destroyed: false,
+    decodeStrings: false,
+    defaultEncoding: 'utf8',
+    length: 0,
+    writing: false,
+    corked: 0,
+    sync: true,
+    bufferProcessing: false,
+    onwrite: [Function: bound onwrite] { [length]: 1, [name]: 'bound onwrite' },
+    writecb: null,
+    writelen: 0,
+    afterWriteTickInfo: null,
+    bufferedRequest: null,
+    lastBufferedRequest: null,
+    pendingcb: 0,
+    prefinished: false,
+    errorEmitted: false,
+    emitClose: false,
+    autoDestroy: false,
+    bufferedRequestCount: 0,
+    corkedRequestsFree: {
+      next: null,
+      entry: null,
+      finish: [Function: bound onCorkedFinish] {
+        [length]: 1,
+        [name]: 'bound onCorkedFinish'
+      }
+    },
+    [buffer]: [Getter]
+  },
+  writable: true,
+  allowHalfOpen: true,
+  _sockname: null,
+  _pendingData: null,
+  _pendingEncoding: '',
+  server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  _server: Server {
+    insecureHTTPParser: undefined,
+    _events: [Object: null prototype] {
+      request: [Function: app] EventEmitter {
+        [length]: 3,
+        [name]: 'app',
+        [prototype]: [app],
+        [constructor]: [Function],
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        setMaxListeners: [Function],
+        getMaxListeners: [Function],
+        emit: [Function],
+        addListener: [Function],
+        on: [Function],
+        prependListener: [Function],
+        once: [Function],
+        prependOnceListener: [Function],
+        removeListener: [Function],
+        off: [Function],
+        removeAllListeners: [Function],
+        listeners: [Function],
+        rawListeners: [Function],
+        listenerCount: [Function],
+        eventNames: [Function],
+        init: [Function],
+        defaultConfiguration: [Function],
+        lazyrouter: [Function],
+        handle: [Function],
+        use: [Function],
+        route: [Function],
+        engine: [Function],
+        param: [Function],
+        set: [Function],
+        path: [Function],
+        enabled: [Function],
+        disabled: [Function],
+        enable: [Function],
+        disable: [Function],
+        acl: [Function],
+        bind: [Function],
+        checkout: [Function],
+        connect: [Function],
+        copy: [Function],
+        delete: [Function],
+        get: [Function],
+        head: [Function],
+        link: [Function],
+        lock: [Function],
+        'm-search': [Function],
+        merge: [Function],
+        mkactivity: [Function],
+        mkcalendar: [Function],
+        mkcol: [Function],
+        move: [Function],
+        notify: [Function],
+        options: [Function],
+        patch: [Function],
+        post: [Function],
+        propfind: [Function],
+        proppatch: [Function],
+        purge: [Function],
+        put: [Function],
+        rebind: [Function],
+        report: [Function],
+        search: [Function],
+        source: [Function],
+        subscribe: [Function],
+        trace: [Function],
+        unbind: [Function],
+        unlink: [Function],
+        unlock: [Function],
+        unsubscribe: [Function],
+        all: [Function],
+        del: [Function],
+        render: [Function],
+        listen: [Function],
+        request: [IncomingMessage],
+        response: [ServerResponse],
+        cache: {},
+        engines: {},
+        settings: [Object],
+        locals: [Object: null prototype],
+        mountpath: '/',
+        [router]: [Getter],
+        _router: [Function]
+      },
+      connection: [Function: connectionListener] {
+        [length]: 1,
+        [name]: 'connectionListener',
+        [prototype]: [connectionListener]
+      }
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    _connections: 1,
+    [connections]: [Getter/Setter],
+    _handle: TCP {
+      reading: false,
+      onconnection: [Function: onconnection] {
+        [length]: 2,
+        [name]: 'onconnection',
+        [prototype]: [onconnection]
+      },
+      [Symbol(owner)]: [Circular],
+      [owner]: [Getter/Setter],
+      writeQueueSize: [Getter],
+      [fd]: [Getter],
+      [_externalStream]: [Getter],
+      [bytesRead]: [Getter],
+      [bytesWritten]: [Getter],
+      isStreamBase: true
+    },
+    _usingWorkers: false,
+    _workers: [ [length]: 0 ],
+    _unref: false,
+    allowHalfOpen: true,
+    pauseOnConnect: false,
+    httpAllowHalfOpen: false,
+    timeout: 120000,
+    keepAliveTimeout: 5000,
+    maxHeadersCount: null,
+    headersTimeout: 60000,
+    _connectionKey: '6::::8000',
+    [Symbol(IncomingMessage)]: [Function: IncomingMessage] {
+      [length]: 1,
+      [name]: 'IncomingMessage',
+      [prototype]: IncomingMessage {
+        [constructor]: [Circular],
+        setTimeout: [Function],
+        _read: [Function],
+        destroy: [Function],
+        _addHeaderLines: [Function],
+        _addHeaderLine: [Function],
+        _dump: [Function],
+        [readableHighWaterMark]: [Getter],
+        [readableBuffer]: [Getter],
+        [readableFlowing]: [Getter/Setter],
+        [readableLength]: [Getter],
+        [readableObjectMode]: [Getter],
+        [readableEncoding]: [Getter],
+        [destroyed]: [Getter/Setter],
+        [readableEnded]: [Getter],
+        [paused]: [Getter/Setter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(ServerResponse)]: [Function: ServerResponse] {
+      [length]: 1,
+      [name]: 'ServerResponse',
+      [prototype]: ServerResponse {
+        [constructor]: [Circular],
+        _finish: [Function],
+        statusCode: 200,
+        statusMessage: undefined,
+        assignSocket: [Function],
+        detachSocket: [Function],
+        writeContinue: [Function],
+        writeProcessing: [Function],
+        _implicitHeader: [Function],
+        writeHead: [Function],
+        writeHeader: [Function],
+        [writableFinished]: [Getter],
+        [writableObjectMode]: [Getter],
+        [writableLength]: [Getter],
+        [writableHighWaterMark]: [Getter],
+        [writableCorked]: [Getter],
+        [_headers]: [Getter/Setter],
+        [_headerNames]: [Getter/Setter],
+        headersSent: [Getter],
+        [writableEnded]: [Getter],
+        _events: undefined,
+        _eventsCount: 0,
+        _maxListeners: undefined,
+        [Symbol(kCapture)]: false
+      },
+      usingDomains: false,
+      captureRejectionSymbol: Symbol(nodejs.rejection),
+      captureRejections: [Getter/Setter],
+      errorMonitor: Symbol(events.errorMonitor),
+      defaultMaxListeners: [Getter/Setter]
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(asyncId)]: 4,
+    listening: [Getter]
+  },
+  timeout: 120000,
+  parser: HTTPParser {
+    '0': [Function: parserOnHeaders] {
+      [length]: 2,
+      [name]: 'parserOnHeaders',
+      [prototype]: parserOnHeaders { [constructor]: [Circular] }
+    },
+    '1': [Function: parserOnHeadersComplete] {
+      [length]: 9,
+      [name]: 'parserOnHeadersComplete',
+      [prototype]: parserOnHeadersComplete { [constructor]: [Circular] }
+    },
+    '2': [Function: parserOnBody] {
+      [length]: 3,
+      [name]: 'parserOnBody',
+      [prototype]: parserOnBody { [constructor]: [Circular] }
+    },
+    '3': [Function: parserOnMessageComplete] {
+      [length]: 0,
+      [name]: 'parserOnMessageComplete',
+      [prototype]: parserOnMessageComplete { [constructor]: [Circular] }
+    },
+    '4': [Function: bound onParserExecute] {
+      [length]: 1,
+      [name]: 'bound onParserExecute'
+    },
+    _headers: [ [length]: 0 ],
+    _url: '',
+    socket: [Circular],
+    incoming: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: ServerResponse {
+        _events: [Object: null prototype],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        outputData: [Array],
+        outputSize: 0,
+        writable: true,
+        _last: false,
+        chunkedEncoding: false,
+        shouldKeepAlive: true,
+        useChunkedEncodingByDefault: true,
+        sendDate: true,
+        _removedConnection: false,
+        _removedContLen: false,
+        _removedTE: false,
+        _contentLength: null,
+        _hasBody: true,
+        _trailer: '',
+        finished: false,
+        _headerSent: false,
+        socket: [Circular],
+        connection: [Circular],
+        _header: null,
+        _onPendingData: [Function],
+        _sent100: false,
+        _expect_continue: false,
+        req: [Circular],
+        locals: [Object: null prototype] {},
+        [Symbol(kCapture)]: false,
+        [Symbol(kNeedDrain)]: false,
+        [Symbol(corked)]: 0,
+        [Symbol(kOutHeaders)]: [Object: null prototype],
+        statusCode: 200,
+        statusMessage: undefined
+      },
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    outgoing: null,
+    maxHeaderPairs: 2000,
+    _consumed: true,
+    onIncoming: [Function: bound parserOnIncoming] {
+      [length]: 2,
+      [name]: 'bound parserOnIncoming'
+    },
+    parsingHeadersStart: 0
+  },
+  on: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  addListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  prependListener: [Function: socketListenerWrap] {
+    [length]: 2,
+    [name]: 'socketListenerWrap',
+    [prototype]: socketListenerWrap { [constructor]: [Circular] }
+  },
+  _paused: false,
+  _httpMessage: ServerResponse {
+    _events: [Object: null prototype] {
+      finish: [Function: bound resOnFinish] {
+        [length]: 0,
+        [name]: 'bound resOnFinish'
+      }
+    },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    outputData: [ [length]: 0 ],
+    outputSize: 0,
+    writable: true,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    socket: [Circular],
+    connection: [Circular],
+    _header: null,
+    _onPendingData: [Function: bound updateOutgoingData] {
+      [length]: 1,
+      [name]: 'bound updateOutgoingData'
+    },
+    _sent100: false,
+    _expect_continue: false,
+    req: IncomingMessage {
+      _readableState: ReadableState {
+        objectMode: false,
+        highWaterMark: 16384,
+        buffer: BufferList { head: null, tail: null, length: 0 },
+        length: 0,
+        pipes: null,
+        pipesCount: 0,
+        flowing: null,
+        ended: false,
+        endEmitted: false,
+        reading: false,
+        sync: true,
+        needReadable: false,
+        emittedReadable: false,
+        readableListening: false,
+        resumeScheduled: false,
+        emitClose: true,
+        autoDestroy: false,
+        destroyed: false,
+        defaultEncoding: 'utf8',
+        awaitDrainWriters: null,
+        multiAwaitDrain: false,
+        readingMore: true,
+        decoder: null,
+        encoding: null,
+        [Symbol(kPaused)]: null
+      },
+      readable: true,
+      _events: [Object: null prototype] { end: [Function] },
+      _eventsCount: 1,
+      _maxListeners: undefined,
+      socket: [Circular],
+      connection: [Circular],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: false,
+      headers: {
+        host: 'localhost:8000',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-language': 'en-US,en;q=0.5',
+        'accept-encoding': 'gzip, deflate',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'cache-control': 'max-age=0'
+      },
+      rawHeaders: [
+        'Host',
+        'localhost:8000',
+        'User-Agent',
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+        'Accept',
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language',
+        'en-US,en;q=0.5',
+        'Accept-Encoding',
+        'gzip, deflate',
+        'Connection',
+        'keep-alive',
+        'Upgrade-Insecure-Requests',
+        '1',
+        'If-None-Match',
+        'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+        'Cache-Control',
+        'max-age=0',
+        [length]: 18
+      ],
+      trailers: {},
+      rawTrailers: [ [length]: 0 ],
+      aborted: false,
+      upgrade: false,
+      url: '/',
+      method: 'GET',
+      statusCode: null,
+      statusMessage: null,
+      client: [Circular],
+      _consuming: false,
+      _dumped: false,
+      next: [Function: next] {
+        [length]: 1,
+        [name]: 'next',
+        [prototype]: [next]
+      },
+      baseUrl: '',
+      originalUrl: '/',
+      _parsedUrl: Url {
+        protocol: null,
+        slashes: null,
+        auth: null,
+        host: null,
+        port: null,
+        hostname: null,
+        hash: null,
+        search: null,
+        query: null,
+        pathname: '/',
+        path: '/',
+        href: '/',
+        _raw: '/'
+      },
+      params: {},
+      query: {},
+      res: [Circular],
+      secret: 'a secret',
+      cookies: [Object: null prototype] {},
+      signedCookies: [Object: null prototype] {},
+      body: {},
+      [Symbol(kCapture)]: false,
+      protocol: [Getter],
+      secure: [Getter],
+      ip: [Getter],
+      ips: [Getter],
+      subdomains: [Getter],
+      path: [Getter],
+      hostname: [Getter],
+      host: [Getter],
+      fresh: [Getter],
+      stale: [Getter],
+      xhr: [Getter]
+    },
+    locals: [Object: null prototype] {},
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [ 'X-Powered-By', 'Express', [length]: 2 ]
+    },
+    statusCode: 200,
+    statusMessage: undefined
+  },
+  [Symbol(asyncId)]: 8,
+  [Symbol(kHandle)]: TCP {
+    reading: true,
+    onconnection: null,
+    _consumed: true,
+    [Symbol(owner)]: [Circular],
+    [owner]: [Getter/Setter],
+    writeQueueSize: [Getter],
+    [fd]: [Getter],
+    [_externalStream]: [Getter],
+    [bytesRead]: [Getter],
+    [bytesWritten]: [Getter],
+    isStreamBase: true
+  },
+  [Symbol(kSetNoDelay)]: false,
+  [Symbol(lastWriteQueueSize)]: 0,
+  [Symbol(timeout)]: Timeout {
+    _idleTimeout: 120000,
+    _idlePrev: [TimersList],
+    _idleNext: [TimersList],
+    _idleStart: 6165,
+    _onTimeout: [Function],
+    _timerArgs: undefined,
+    _repeat: null,
+    _destroyed: false,
+    [Symbol(refed)]: false,
+    [Symbol(asyncId)]: 9,
+    [Symbol(triggerId)]: 8
+  },
+  [Symbol(kBuffer)]: null,
+  [Symbol(kBufferCb)]: null,
+  [Symbol(kBufferGen)]: null,
+  [Symbol(kCapture)]: false,
+  [Symbol(kBytesRead)]: 0,
+  [Symbol(kBytesWritten)]: 0,
+  [_connecting]: [Getter],
+  [pending]: [Getter],
+  [readyState]: [Getter],
+  [bufferSize]: [Getter],
+  bytesRead: [Getter],
+  remoteAddress: [Getter],
+  remoteFamily: [Getter],
+  remotePort: [Getter],
+  localAddress: [Getter],
+  localPort: [Getter],
+  _bytesDispatched: [Getter],
+  bytesWritten: [Getter],
+  [_handle]: [Getter/Setter],
+  [Symbol(kUpdateTimer)]: [Getter],
+  [destroyed]: [Getter/Setter],
+  [writableHighWaterMark]: [Getter],
+  [writableBuffer]: [Getter],
+  [writableLength]: [Getter],
+  [writableFinished]: [Getter],
+  [writableCorked]: [Getter],
+  [writableEnded]: [Getter],
+  [readableHighWaterMark]: [Getter],
+  [readableBuffer]: [Getter],
+  [readableFlowing]: [Getter/Setter],
+  [readableLength]: [Getter],
+  [readableObjectMode]: [Getter],
+  [readableEncoding]: [Getter],
+  [readableEnded]: [Getter],
+  [paused]: [Getter/Setter]
+}
+
+***_consuming
+_consuming: false
+
+***_dumped
+_dumped: false
+
+***next
+next: [Function: next] {
+  [length]: 1,
+  [name]: 'next',
+  [prototype]: next { [constructor]: [Circular] }
+}
+
+***baseUrl
+baseUrl: ''
+
+***originalUrl
+originalUrl: '/'
+
+***_parsedUrl
+_parsedUrl: Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/'
+}
+
+***params
+params: {}
+
+***query
+query: {}
+
+***secret
+secret: 'a secret'
+
+***cookies
+cookies: [Object: null prototype] {}
+
+***signedCookies
+signedCookies: [Object: null prototype] {}
+
+***body
+body: {}
+
+
+Hostname: localhost
+IP:       ::1
+Headers:  {
+  host: 'localhost:8000',
+  'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:77.0) Gecko/20100101 Firefox/77.0',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language': 'en-US,en;q=0.5',
+  'accept-encoding': 'gzip, deflate',
+  connection: 'keep-alive',
+  'upgrade-insecure-requests': '1',
+  'if-none-match': 'W/"c-Lve95gjOVATpfV8EL5X4nxwjKHE"',
+  'cache-control': 'max-age=0'
+}
+Method:   GET
+Original: /
+Protocol: http
+Path:     /
+Domains:  [ [length]: 0 ]
+Query:    {}
+Params:   {}
+Body:     {}
+Cookies:  [Object: null prototype] {}
+Signed:   [Object: null prototype] {}
+Route:    undefined
+
